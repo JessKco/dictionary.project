@@ -16,8 +16,14 @@ header {
   text-align: center;
   font-size: 10px;
   padding: 10px 0 30px;
+  color: white;
 }
 
 a {
   color: rgb(177, 99, 250);
+}
+
+.app {
+  max-width: 960px;
+  margin: 0 auto;
 }
